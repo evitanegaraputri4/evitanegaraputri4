@@ -9,7 +9,7 @@ With more than three years of experience in digital marketing analytics, I have 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, R 
 - **Data Science Skills**: Machine Learning, Deep Learning, Big Data Analytics
-- **Tools & Technologies**: [List any specific tools or libraries you are familiar with, e.g., TensorFlow, Keras, Pandas, etc.]
+- **Tools & Technologies**: Pandas,TensorFlow, Keras
 
 
 
@@ -26,6 +26,6 @@ Feel free to check out my projects in the repositories below:
 - [Weather Prediction](https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data)
 - [Text Processing for Topic Classification](https://github.com/evitanegaraputri4/Text-Processing-Classify-Topic-Label)
 
-- https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data
+
 
 
