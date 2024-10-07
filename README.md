@@ -4,7 +4,7 @@
 I'm currently pursuing a Master's degree in Data Science and Applied Analytics at the University of Lincoln. I hold a Bachelor's degree in Information Technology from Udayana University. 
 
 ## 📈 Professional Experience
-With more than three years of experience in digital marketing analytics, I have adeptly combined my industry knowledge with technical expertise in data science. This unique blend allows me to extract valuable insights from data, driving informed decision-making and supporting business growth. I am enthusiastic about taking on new challenges and collaborating on innovative data science projects. I look forward to discussing how my expertise in data science can enhance your team’s analytical capabilities and contribute to your objectives.
+With a solid foundation in data science and applied analytics, I am eager to continue advancing my knowledge and skills in machine learning, data analytics, and AI to drive business impact. With more than three years of experience in digital marketing analytics, I have adeptly combined my industry knowledge with technical expertise in data science. This unique blend allows me to extract valuable insights from data, driving informed decision-making and supporting business growth. I am enthusiastic about embracing new challenges and collaborating on innovative data science projects while leveraging my skills and knowledge to contribute effectively to a dynamic team in the field.
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, R 
