@@ -25,6 +25,7 @@ Feel free to check out my projects in the repositories below:
 - [Weed Classification](https://github.com/evitanegaraputri4/Weed-Classification))
 - [Weather Prediction](https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data)
 - [Text Processing for Topic Classification](https://github.com/evitanegaraputri4/Text-Processing-Classify-Topic-Label)
+- Digital marketing portfolio [here](https://drive.google.com/file/d/1hNdpK49rIFCpV_pOsL4As2mwylcDlDaZ/view?usp=sharing).
 
 
 
