@@ -9,7 +9,6 @@ With more than three years of experience in digital marketing analytics, I have 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, R 
 - **Data Science Skills**: Machine Learning, Deep Learning, Big Data Analytics
-- **Data Processing**: Image and Text Processing
 - **Tools & Technologies**: [List any specific tools or libraries you are familiar with, e.g., TensorFlow, Keras, Pandas, etc.]
 
 
