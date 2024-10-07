@@ -20,7 +20,7 @@ With more than three years of experience in digital marketing analytics, I have 
 ---
 
 Feel free to check out my projects in the repositories below:
-- [Vehicle Classification]([https://github.com/yourusername/Vehicle-Classification](https://github.com/evitanegaraputri4/Vehicle-Classification)
+- [Vehicle Classification](https://github.com/evitanegaraputri4/Vehicle-Classification)
 - [House Price Prediction](https://github.com/evitanegaraputri4/House-Price-Prediction-Using-Spark-ML)
 - [Weed Classification](https://github.com/evitanegaraputri4/Weed-Classification))
 - [Weather Prediction](https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data)
