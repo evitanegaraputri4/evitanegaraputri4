@@ -20,6 +20,7 @@ With a solid foundation in data science and applied analytics, I am eager to con
 ---
 
 Feel free to check out my Data Science projects in the repositories below:
+- [Adidas Sales Performance Dashboard Using Power BI](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard)
 - [Weather Prediction](https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data)
 - [Vehicle Classification](https://github.com/evitanegaraputri4/Vehicle-Classification)
 - [House Price Prediction](https://github.com/evitanegaraputri4/House-Price-Prediction-Using-Spark-ML)
