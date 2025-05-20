@@ -10,9 +10,8 @@ With a solid foundation in data science and applied analytics, I am eager to con
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, MYSQL, R 
 - **Data Science Skills**: Machine Learning, Deep Learning, Big Data Analytics
-- **Tools & Technologies**: Pandas,TensorFlow, Keras
-
-
+- **Tools & Technologies**: Pandas,TensorFlow, Keras, power BI, Google Data Studio, Google Analytics, Microsoft Excel
+- **Digital Marketing**: Social Media Analysis, Search Engine Optimization (SEO), Campaign Performance Analysis
 
 ## 📫 How to Reach Me
 - Email: [evitanegara@gmail.com](mailto:evitanegara@gmail.com)
