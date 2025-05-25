@@ -27,7 +27,7 @@ Feel free to check out my Data Science projects in the repositories below:
 - [House Price Prediction](https://github.com/evitanegaraputri4/House-Price-Prediction-Using-Spark-ML)
 - [Weed Classification](https://github.com/evitanegaraputri4/Weed-Classification)
 - [Text Processing for Topic Classification](https://github.com/evitanegaraputri4/Text-Processing-Classify-Topic-Label)
-- Digital marketing portfolio [here](https://drive.google.com/file/d/1hNdpK49rIFCpV_pOsL4As2mwylcDlDaZ/view?usp=sharing).
+- Digital marketing portfolio [here]([https://drive.google.com/file/d/1hNdpK49rIFCpV_pOsL4As2mwylcDlDaZ/view?usp=sharing](https://www.notion.so/Digital-Marketing-Portofolio-1f9d8f1f60bc801b97a9f06b86b2d2f8?pvs=4).
 
 
 
