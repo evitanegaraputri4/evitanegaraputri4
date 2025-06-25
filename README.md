@@ -20,6 +20,8 @@ With a solid foundation in data science and applied analytics, I am eager to con
 ---
 
 Feel free to check out my Data Science projects in the repositories below:
+- [Inventory Management Dashboard using Power BI](https://github.com/evitanegaraputri4/Inventory-Management-Dashboard-using-Power-BI)
+- [Payroll Dashboard using Power BI](https://github.com/evitanegaraputri4/Payroll-Dashboard-using-Power-BI)
 - [Merchandise Sales Analysis Dashboard](https://github.com/evitanegaraputri4/Merchandise-Sales-Dashboard-using-Power-BI)
 - [Pizza Sales Dashboard Using Power BI](https://github.com/evitanegaraputri4/Pizza-Sales-Dashoard)
 - [Adidas Sales Performance Dashboard Using Power BI](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard)
