@@ -25,15 +25,15 @@ Feel free to check out my Data Science projects in the repositories below:
 - [Merchandise Sales Analysis Dashboard](https://github.com/evitanegaraputri4/Merchandise-Sales-Dashboard-using-Power-BI)
 - [Pizza Sales Dashboard Using Power BI](https://github.com/evitanegaraputri4/Pizza-Sales-Dashoard)
 - [Adidas Sales Performance Dashboard Using Power BI](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard)
+
 - [Salary Data :Exploratory Data Analysis (EDA)](https://github.com/evitanegaraputri4/Salary-Data-Exploratory-Data-Analysis-EDA)
+- [Ticket Sales Data Cleaning using Excel](https://github.com/evitanegaraputri4/Data-Cleaning-Project-Ticket-Sales-Dataset-in-Excel)
+- [Retail Data Cleaning and Pivot Analysis using excel](https://github.com/evitanegaraputri4/Retail-Sales-Data-Cleaning-and-Pivot-Analysis)
+
 - [Weather Prediction](https://github.com/evitanegaraputri4/Weather-Prediction-Using-Timeseries-Data)
 - [Vehicle Classification](https://github.com/evitanegaraputri4/Vehicle-Classification)
 - [House Price Prediction](https://github.com/evitanegaraputri4/House-Price-Prediction-Using-Spark-ML)
 - [Weed Classification](https://github.com/evitanegaraputri4/Weed-Classification)
 - [Text Processing for Topic Classification](https://github.com/evitanegaraputri4/Text-Processing-Classify-Topic-Label)
-- [Ticket Sales Data Cleaning using Excel](https://github.com/evitanegaraputri4/Data-Cleaning-Project-Ticket-Sales-Dataset-in-Excel)
-- [Retail Data Cleaning and Pivot Analysis using exce;] (https://github.com/evitanegaraputri4/Retail-Sales-Data-Cleaning-and-Pivot-Analysis)
-- Digital marketing portfolio [here](https://www.notion.so/Digital-Marketing-Portofolio-1f9d8f1f60bc801b97a9f06b86b2d2f8?pvs=4)
-
 
 
