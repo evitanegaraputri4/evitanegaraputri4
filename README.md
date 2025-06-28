@@ -15,7 +15,6 @@ With a solid foundation in data science and applied analytics, I am eager to con
 
 ## 📫 How to Reach Me
 - Email: [evitanegara@gmail.com](mailto:evitanegara@gmail.com)
-- LinkedIn: [linkedin.com/in/evita-negara-putri-a9464231b](https:// www.linkedin.com/in/evitanegaraputri/)
 
 ---
 
