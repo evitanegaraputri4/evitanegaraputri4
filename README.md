@@ -36,5 +36,5 @@ Feel free to check out my Data Science projects in the repositories below:
 - [Text Processing for Topic Classification](https://github.com/evitanegaraputri4/Text-Processing-Classify-Topic-Label)
 
 - [Coffee Shop Sales Analysis using SQL](https://github.com/evitanegaraputri4/Coffee-Shop-Sales-Analysis-using-SQL/tree/main)
-- [Retail Bicycle Sales Analysis using SQL] (https://github.com/evitanegaraputri4/Retail-Bicycle-Sales-Analysis-using-SQL)
+- [Retail Bicycle Sales Analysis using SQL](https://github.com/evitanegaraputri4/Retail-Bicycle-Sales-Analysis-using-SQL)
 
