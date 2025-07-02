@@ -37,4 +37,5 @@ Feel free to check out my Data Science projects in the repositories below:
 
 - [Coffee Shop Sales Analysis using SQL](https://github.com/evitanegaraputri4/Coffee-Shop-Sales-Analysis-using-SQL/tree/main)
 - [Retail Bicycle Sales Analysis using SQL](https://github.com/evitanegaraputri4/Retail-Bicycle-Sales-Analysis-using-SQL)
+- [Supply-Chain-Analysis-in-Beauty-Retail-using-SQL](https://github.com/evitanegaraputri4/Supply-Chain-Analysis-in-Beauty-Retail-using-SQL/tree/main)
 
